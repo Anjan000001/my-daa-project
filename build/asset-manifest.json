@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19baf2a2.css",
+    "main.js": "/static/js/main.67250627.js",
+    "static/media/nitj_logo-removebg-preview.png": "/static/media/nitj_logo-removebg-preview.1fee7c9f77108a6e4abe.png",
+    "index.html": "/index.html",
+    "main.19baf2a2.css.map": "/static/css/main.19baf2a2.css.map",
+    "main.67250627.js.map": "/static/js/main.67250627.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19baf2a2.css",
+    "static/js/main.67250627.js"
+  ]
+}
